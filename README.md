@@ -14,6 +14,6 @@ e. Send emails
 
 f. Look up videos on youtube
 
-g. Set reminders
+g. Set notes
 
 h. Search wikipedia
