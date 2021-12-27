@@ -23,3 +23,5 @@ i. Tell jokes
 k. Show maps
 
 l. Getting locations and tracking distance to set destination
+
+m. Get CPU usage
