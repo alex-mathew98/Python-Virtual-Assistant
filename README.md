@@ -14,6 +14,12 @@ e. Send emails
 
 f. Look up videos on youtube
 
-g. Set notes
+g. Set and show notes
 
 h. Search wikipedia
+
+i. Tell jokes
+
+k. Show maps
+
+l. Getting locations and tracking distance to set destination
